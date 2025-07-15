@@ -1,0 +1,16 @@
+{
+    "name": "pagador/gs",
+    "description": "Basic Grading System",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Pagador\\Gs\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "pagador"
+        }
+    ],
+    "require": {}
+}
