@@ -1,5 +1,5 @@
 <?php
-namespace pagador\gs\core;
+namespace Pagador\Gs\core;
 
 interface Crud{
     public function create();

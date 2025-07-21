@@ -1,5 +1,5 @@
 <?php
-namespace pagador\gs\models;
+namespace Pagador\Gs\models;
 class subjectmodel{
 
 }
